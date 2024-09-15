@@ -33,14 +33,14 @@ O Amazon Clone é um aplicativo web que simula as principais funcionalidades de 
 
 1. Clone o repositório:
 
-   ```bash
+      ```bash
 
-   git clone https://github.com/seu-nome-de-usuário/Simplified-Amazon-Clone.git
-   ```
+      git clone https://github.com/seu-nome-de-usuário/Simplified-Amazon-Clone.git
+      ```
 
 2. Navegue até o diretório do projeto:
 
-  ```bash
+   ```bash
 
    cd Simplified-Amazon-Clone
    ```
@@ -95,7 +95,7 @@ The Amazon Clone is a web application that simulates the core functionalities of
 
 2. Navigate to the project directory:
 
-  ```bash
+   ```bash
 
    cd Simplified-Amazon-Clone
    ```
