@@ -1,6 +1,6 @@
 # Amazon Clone
 
-This project is a simplified clone of Amazon, built as part of a YouTube tutorial from SuperSimple.dev. It includes basic e-commerce functionalities like product listings, a checkout system, and order tracking.
+Este projeto é um clone simplificado da Amazon, construído como parte de um tutorial do YouTube de SuperSimple.dev. Inclui funcionalidades básicas de comércio eletrônico, como listas de produtos, sistema de checkout e rastreamento de pedidos.
 
 ## Tabela de Conteúdos
 
